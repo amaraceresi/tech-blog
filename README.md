@@ -23,6 +23,7 @@ To get started, install the following npm packages: express-handlebars, MySQL2, 
 MIT
 
 ## Deployed Website
+https://tech-blog44-bdd242585616.herokuapp.com
 
 ## Contributing
 This project is open for contributions. The project is managed by [Amara Ceresi](https://github.com/amaraceresi). You can also directly access the project's repository at [Tech-Blog](https://github.com/amaraceresi/tech-blog).
