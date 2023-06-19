@@ -25,5 +25,6 @@ MIT
 ## Deployed Website
 
 ## GitHub
-(https://github.com/amaraceresi)
+https://github.com/amaraceresi
+https://github.com/amaraceresi/tech-blog
 
