@@ -25,5 +25,5 @@ MIT
 ## Deployed Website
 
 ## Contributing
-This project is open for contributions. The project is managed by [Amaraceresi](https://github.com/amaraceresi). You can also directly access the project's repository at [Tech-Blog](https://github.com/amaraceresi/tech-blog).
+This project is open for contributions. The project is managed by [Amara Ceresi](https://github.com/amaraceresi). You can also directly access the project's repository at [Tech-Blog](https://github.com/amaraceresi/tech-blog).
 
