@@ -1,5 +1,8 @@
 # Tech Blog
 
+![Tech Blog](./screenshot.png)
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
